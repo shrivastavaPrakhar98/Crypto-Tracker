@@ -30,6 +30,6 @@ const Coin = ({ name, image, symbol, price, volume, rank, price_change , market_
     )
 }
 
-
+ 
 
 export default Coin;
